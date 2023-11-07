@@ -1,0 +1,31 @@
+
+
+  <br>
+  <h3 class="title_calculator text-info">Please, fill the gaps</h3>
+  <div>
+    <input type="text" placeholder="Type a number" class="input_numb1 form-control" (input)="calculateValNumb1($event)">
+  </div>
+
+  <div>
+    <input type="text" placeholder="Type a number" class="input_numb2 form-control" (input)="calculateValNumb2($event)">
+  </div>
+ 
+  <div>
+    <button class="button btn btn-info sum_button" (click)="sumResult()">Sum</button>
+    <button class="button btn btn-danger subs_button" (click)="subsResult()">Subtraction</button>
+    <button class="button btn btn-warning mult_button" (click)="multiResult()">Multiplication</button>
+  </div>
+<div class="numbers_values">
+  First number value: {{num1}}
+  <br>
+  Second number value: {{num2}}
+  <br>
+</div>
+  
+   <p id="result_values" class="result_class"></p>
+  
+   <br>
+   <br>
+<div>
+  <p class="madeby">Made by Camilo Castro</p>
+</div>
