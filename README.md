@@ -1,5 +1,5 @@
 
-Made by Camilo Castro
+Made by Camilo Castro / Hecho por Camilo Castro
 
 -------------------------------ANGULAR(INSTRUCCIONES AUTO GENERADAS)-----------------------------
 
