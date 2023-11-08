@@ -94,6 +94,11 @@ Creamos el contenedor de prueba y revisamos que se este ejecutando correctamente
 
 ![image](https://github.com/BlutLucifugeKrieger/simple_reactive_web_app/assets/130005378/1fde6b81-5fc6-4736-a9cf-3e5c32213e25)
 
+Ejemplo de la suma: 
+
+![image](https://github.com/BlutLucifugeKrieger/simple_reactive_web_app/assets/130005378/42e5bc17-d5b6-48c8-9922-b99edb9fa222)
+
+
 Revisamos que efectivamente se este ejecutando en localhost y con el puerto mapeado:
 
 ![image](https://github.com/BlutLucifugeKrieger/simple_reactive_web_app/assets/130005378/daa2d590-f7ba-46a7-9991-13f64e309064)
