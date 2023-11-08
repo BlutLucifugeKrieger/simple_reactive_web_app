@@ -105,10 +105,10 @@ En mi caso, ya lo realice y este es el link de mi repositorio: https://hub.docke
 ![image](https://github.com/BlutLucifugeKrieger/simple_reactive_web_app/assets/130005378/49ae7720-42c2-4a2a-91cf-1d9c77fb4d2a)
 
 
----------------------------VIRTUALIZACION CON AWS (EC2) USANDO UN SCRIPT----------------------------------------------------
+---------------------------VIRTUALIZACION CON AWS (EC2) USANDO UN SCRIPT---------------------------------------------
 
 
-En este punto, obte por hacer un archivo.sh ejecutable, para realizar la configuracion y despliegue de contenedores docker en 
+En este punto, opte por hacer un archivo.sh ejecutable, para realizar la configuracion y despliegue de contenedores docker en 
 la maquina virtual de AWS.
 Para ello en un bloc de nota se definieron como variables el ami_id, el tipo de instancia, el grupo de seguridad, numero de instancias a desplegar (EC2) y la imagen de docker
 
